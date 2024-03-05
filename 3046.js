@@ -1,4 +1,3 @@
-
 var isPossibleToSplit = function(nums) {
     const map = new Map();
 
